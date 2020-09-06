@@ -4,4 +4,4 @@ Para el proyecto 2 de lógica se busca aplicar los conceptos aprendidos de grafo
 
 # Referencias
 
-USAC. (s.f). *Municipios y distancias Guatemala* .Extraido de: ( https://digi.usac.edu.gt/sitios/formularios/instrumentos/formularios/admon/comisiones/distanciasGuatemala.pdf. )[ https://digi.usac.edu.gt/sitios/formularios/instrumentos/formularios/admon/comisiones/distanciasGuatemala.pdf]
+USAC. (s.f). *Municipios y distancias Guatemala* .Extraido de: [https://digi.usac.edu.gt/sitios/formularios/instrumentos/formularios/admon/comisiones/distanciasGuatemala.pdf. ]( https://digi.usac.edu.gt/sitios/formularios/instrumentos/formularios/admon/comisiones/distanciasGuatemala.pdf)
